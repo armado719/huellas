@@ -1,0 +1,11 @@
+/* App.css */
+
+.app-container {
+  background-image: url('./imagen/huellas.jpg'); /* Cambia la ruta según tu estructura de archivos */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh; /* Asegura que la imagen de fondo cubra toda la altura de la ventana */
+}
+
+/* Agrega estilos adicionales según sea necesario */
